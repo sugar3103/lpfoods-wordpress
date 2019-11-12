@@ -1,0 +1,23 @@
+{
+  "name": "lpfoods-wordpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sugar3103/lpfoods-wordpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sugar3103/lpfoods-wordpress/issues"
+  },
+  "homepage": "https://github.com/sugar3103/lpfoods-wordpress#readme"
+}
