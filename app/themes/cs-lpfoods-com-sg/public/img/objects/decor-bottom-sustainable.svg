@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="312" fill="none" viewBox="0 0 1440 312">
+    <mask id="a" width="1440" height="312" x="0" y="0" maskUnits="userSpaceOnUse">
+        <path fill="#C4C4C4" d="M0 0h1440v312H0z"/>
+    </mask>
+    <g fill-rule="evenodd" clip-rule="evenodd" mask="url(#a)">
+        <path fill="#1B78D4" d="M0 312c105-58.745 157-86.63 328-99.305-150-5.07-279 10.297-328 56.772V312z"/>
+        <path fill="#5099DE" d="M0 273.632c30-20.377 171-65.162 337-60.937-96-16.9-276-8.45-337 19.144v41.793z"/>
+        <path fill="url(#b)" d="M1440 0c0 30.224-.5 106.663 0 139.224-110 76.246-371 136.374-763 98.251-392-38.123-586-32.815-677 0V0h1440z"/>
+        <path fill="#1B78D4" d="M1440 178.634c-84 11.15-309 89.317-546 70.623 224-7.27 444-106.917 546-164.969v94.346z"/>
+        <path fill="#5099DE" d="M1440 178.634c-84 11.15-309 89.317-546 70.623 167 7.27 420-57.725 546-118.326v47.703z"/>
+    </g>
+    <defs>
+        <linearGradient id="b" x1="1036" x2="981" y1="199" y2="933.155" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff"/>
+            <stop offset="1" stop-color="#1B78D4"/>
+        </linearGradient>
+    </defs>
+</svg>
