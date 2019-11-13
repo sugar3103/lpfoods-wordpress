@@ -15,7 +15,7 @@
 </head>
 <body>
 <main>
-<section class="secton section-maintenance" style="background-image: url(https://lpfoods.conceptual.site/app/uploads/cs-branding-uploads/cs-info-page/filter.png);">
+<section class="secton section-maintenance" style="background-image: url(https://lpfoods.com.sg/app/uploads/cs-branding-uploads/cs-info-page/filter.png);">
 <div class="maintenance-background"><img src="/app/uploads/cs-branding-uploads/cs-info-page/background.png"></div>
 <div class="d-flex flex-column justify-content-center align-items-center h-100 px-5">
 <div class="row main-content-wrapper justify-content-center align-items-center">
